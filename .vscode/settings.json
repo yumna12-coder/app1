@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 16,
+    "editor.colorDecoratorsActivatedOn": "hover",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "workbench.colorTheme": "Visual Studio Light",
+    "workbench.preferredDarkColorTheme": "Visual Studio Light"
+}

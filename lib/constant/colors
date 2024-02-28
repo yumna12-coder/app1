@@ -1,0 +1,8 @@
+static const grey=Color(0Xff464447);
+static const button_clor=Color(0XffFFFFFF40);
+static const background=Color(0Xff000000);
+static const input_text=Color(0Xff4F585E);
+static const signup=Color(0Xff2D201C);
+
+
+
